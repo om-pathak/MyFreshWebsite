@@ -1,7 +1,10 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-description: ""
 date: {{ .Date }}
+slug: ""
+description: ""
 keywords: []
 draft: true
+tags: []
+stylesheet: "post.css"
 ---
